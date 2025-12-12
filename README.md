@@ -14,11 +14,11 @@ El proyecto **Context API**, **reducers** y un hook personalizado llamado useBud
 ---
 
 ## 📂 Estructura del proyecto
-src/ components/       # Componentes reutilizables (formularios, listas, etc.) 
-context/          # Context API para estado global 
-reducers/         # Reducers para lógica de actualización de estado 
-hooks/            # Custom hooks si aplica 
-App.tsx           # Componente principal main.tsx          # Punto de entrada
+ - src/ components/       # Componentes reutilizables (formularios, listas, etc.) 
+ - context/          # Context API para estado global 
+ - reducers/         # Reducers para lógica de actualización de estado 
+ - hooks/            # Custom hooks si aplica 
+ - App.tsx           # Componente principal main.tsx          # Punto de entrada
 
 ---
 
